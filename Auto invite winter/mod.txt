@@ -1,0 +1,21 @@
+{
+	"name" : "INVITE WINTERS",
+	"author" : "domyoji sakura&HELLDIVER ASSAULT IN PROGRESS",
+    "hooks" : [
+		{"hook_id" : "lib/managers/menumanager","script_path" : "loc.lua"},
+        {"hook_id" : "lib/managers/groupaimanager", "script_path" : "mod.lua"},
+        {"hook_id" : "lib/managers/group_ai_states/groupaistatebesiege", "script_path" : "mod2.lua"},
+        {"hook_id" : "core/lib/managers/mission/coreelementunitsequence","script_path" : "setup.lua"}
+    ],
+	"keybinds" : [
+		{
+			"keybind_id" : "invite_winters_keybind",
+			"name" : "invite_winters_name",
+			"description" : "invite_winters_desc"
+			"script_path" : "keybind.lua",
+			"run_in_menu" : false,
+			"run_in_game" : true,
+			"localized" : true
+		}
+	]
+}

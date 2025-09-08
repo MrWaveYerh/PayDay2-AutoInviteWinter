@@ -1,0 +1,12 @@
+{
+	"hint_title" : "invite winters",
+	"invite_winters_name" : "invite winters",
+	"invite_winters_desc" : "press to invite",
+	"host_operation_only" : "only host can do this operation.",
+	"public_banned" : "forbidden in public lobby.",
+	"assault_not_start" : "assault has not started.",
+	"phase_invalid" : "assault has not started.",
+	"already_present" : "captain is already present.",
+	"spawn_error" : "something went wrong. try another place.",
+	"announce_spawn" : "[INVITE WINTERS] I invited Captain Winters."
+}

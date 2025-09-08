@@ -1,0 +1,14 @@
+{
+	"hint_title" : "邀请冬队",
+	"invite_winters_name" : "邀请冬队",
+	"invite_winters_desc" : "按下此键，千里相会",
+	"host_operation_only" : "只有房主可以进行这项操作",
+	"public_banned" : "不允许在公开房间使用",
+	"assault_not_start" : "突击尚未开始",
+	"phase_invalid" : "突击尚未开始",
+	"already_present" : "冬队已经在场上",
+	"spawn_error" : "这里似乎不行，请换个地方再试一次",
+	"announce_spawn" : "[邀请冬队]下面欢迎特邀嘉宾登场！",
+	"position_locked" : "[邀请冬队]%s当前位置已被冬日队长锁定！",
+	"host_player" : "房主"
+}

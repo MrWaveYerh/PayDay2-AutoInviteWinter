@@ -1,0 +1,1 @@
+dofile(ModPath .. "loc.lua")
